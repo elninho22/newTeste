@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "294363642087",
+    "project_id": "appview-a12b3",
+    "storage_bucket": "appview-a12b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294363642087:android:15ff725e84de7008298a42",
+        "android_client_info": {
+          "package_name": "com.ajmtecnlogia.applocation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "294363642087-otree9s7rvo51mq38r6oa064vd8hbu3o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJ3oAV4XPWoxCprO63dH6g1OBVuaji-lc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "294363642087-otree9s7rvo51mq38r6oa064vd8hbu3o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

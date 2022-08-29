@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/ajmtecnlogia/applocation/BuildConfig.java
+ com.ajmtecnlogia.applocation.BuildConfig
